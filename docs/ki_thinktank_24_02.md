@@ -321,7 +321,7 @@ ChatGPT 4o
 
 ## Deep Learning
 
-.center[<img src="img/chatgpt_books_01.png" alt="chatgpt_books_01" style="width:80%;">]
+.center[<img src="img/chatgpt_books_01.png" alt="chatgpt_books_01" style="width:80%; border: 1px solid #555;">]
 
 .footnote[[L. Gieseke, ChatGPT 4o]]
 
@@ -359,7 +359,7 @@ Aktuell fällt es auf, das die Ergebnisse von Bildgenerierungs-Tools oft einem b
 ## KI Ästhetik
 
 
-.center[<img src="img/canva_chihuahua_02.png" alt="canva_chihuahua_02" style="width:45%;">  <img src="img/chatgpt_cat_01.png" alt="chatgpt_cat_01" style="width:45%;"> ]  
+.center[<img src="img/canva_chihuahua_02.png" alt="canva_chihuahua_02" style="width:45%; border: 1px solid #555;">  <img src="img/chatgpt_cat_01.png" alt="chatgpt_cat_01" style="width:45%; border: 1px solid #555;"> ]  
 
 .footnote[[L. Gieseke, ChatGPT 4o, Canva]]
 
