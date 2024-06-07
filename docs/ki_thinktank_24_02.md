@@ -111,7 +111,7 @@ Also,...
 ---
 template:inverse
 
-# Künstliche Intelligenz?
+# Künstliche Intelligenz
 
 
 ???
@@ -174,6 +174,16 @@ Die tatsächlich aktuell verfügbaren Möglichkeiten fallen in den Bereich der s
 .task[COMMENT:]  
 
 ...wie z.B. Texte schreiben oder audiovisuelle Inhalte generieren mit separaten Systemen.
+
+
+---
+template:inverse
+
+# Maschinelles Lernen
+
+
+???
+.task[COMMENT:]  
 
 Und wie eine Maschine lernen kann, möchte ich ihnen anhand von...
 
@@ -342,7 +352,7 @@ Und im Kontext von Bildern nun zu der...
 ---
 template:inverse
 
-# KI und Kunst?
+# KI und Kunst
 
 
 ???
