@@ -72,7 +72,9 @@ Genauso, wenn ich...
 
 ...tiga antworten. Das über wir noch mal kurz....
 
-Merken Sie sich die Antworten, wir kommen darauf zurück. Und mit dieser Aufgabe, stecken wir auch schon tief in der Agenda für heute. Ich gehe im folgenden...
+Merken Sie sich die Antworten, wir kommen darauf zurück. 
+
+Und mit dieser Aufgabe, stecken wir auch schon mitten in der Agenda für heute. Ich gehe im folgenden...
 
 ---
 layout:false
@@ -312,8 +314,19 @@ Antworten:
 ???
 .task[COMMENT:]  
 
+Was ich bis hierhin erläutert haben, kann man im Kern auch auf Bilder und Sound übertragen.
+
+Und im Kontext von Bildern nun zu der...
+
+
+------
+
 * Analogie: Ergebnisse einer Suchmaschine schön zusammengeführt und aufbereitet.
 * Das Ergebnis klingt so, als ob ein Mensch antworten würde
+
+* Mensch: eine Milliarde -> neun Nullen
+* ChatGPT: eine Billion -> zwölf Nullen
+* Kollektive Intelligenz?
 
 
 ChatGPT 4o
@@ -327,26 +340,8 @@ ChatGPT 4o
 .center[<img src="img/chatgpt_ergaenze_02b.png" alt="chatgpt_ergaenze_02b" style="width:100%;">]
 
 
----
-
-## Deep Learning
-
-.center[<img src="img/chatgpt_books_01.png" alt="chatgpt_books_01" style="width:80%; border: 1px solid #555;">]
-
-.footnote[[L. Gieseke, ChatGPT 4o]]
 
 
-???
-.task[COMMENT:]  
-
-* Mensch: eine Milliarde -> neun Nullen
-* ChatGPT: eine Billion -> zwölf Nullen
-* Kollektive Intelligenz?
-
-
-Was ich bis hierhin erläutert haben, kann man im Kern auch auf Bilder und Sound übertragen.   
-
-Und im Kontext von Bildern nun zu der...
 
 
 ---
