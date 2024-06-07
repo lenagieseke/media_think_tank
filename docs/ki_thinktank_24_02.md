@@ -21,7 +21,7 @@ class: center, middle, inverse
 
 Vielen Dank für die Vorstellung und guten Morgen auch von mir.
 
-In meinem Beitrag heute möchte ich ihnen ein intuitives und grundlegendes Verständnis über das, von dem wir heute sprechen, nämlich KI, jenseits des Hypes vermittel.
+In meinem Beitrag heute möchte ich ihnen ein intuitives Verständnis von dem vermittel, von dem wir heute sprechen, nämlich KI - jenseits des Hypes.
 
 Dazu starte ich mit einer Aufgabe, die Sie erst mal nur mit zu machen brauchen - im Laufe meiner Präsentation, gibt es die Auswertung.
 
@@ -159,15 +159,14 @@ Die tatsächlich aktuell verfügbaren Möglichkeiten fallen in den Bereich der s
 ???
 .task[COMMENT:]  
 
-...wie z.B. wahrnehmen, kommunizieren und lernen, gut oder sogar sehr viel besser von Computern als von Menschen erledigt werden. Aber das gilt auch nur für ganz bestimmte Aufgaben,...
+...wie z.B. wahrnehmen, kommunizieren und lernen, gut oder sogar sehr viel besser von Computern als von Menschen erledigt werden. Aber das gilt auch nur für ganz bestimmte Aufgaben,... 
 
 
----
-## Schwache KI
 
-<br >
+--
 
-.center[<img src="img/chatgpt_tasks_01.png" alt="chatgpt_tasks_01" style="width:100%;">]
+
+.center[<img src="img/chatgpt_tasks_01.png" alt="chatgpt_tasks_01" style="width:64%;">]
 
 .footnote[[L. Gieseke, Canva]]
 
@@ -177,6 +176,7 @@ Die tatsächlich aktuell verfügbaren Möglichkeiten fallen in den Bereich der s
 ...wie z.B. Texte schreiben oder audiovisuelle Inhalte generieren mit separaten Systemen.
 
 Und wie eine Maschine lernen kann, möchte ich ihnen anhand von...
+
 
 ---
 
@@ -295,7 +295,7 @@ Antworten:
 
 --
 
-> ChatGPT hat kein Verständnis von dem, worüber es schreibt!
+> ChatGPT hat kein Verständnis von dem, worüber es schreibt.
 
 
   
@@ -356,7 +356,7 @@ Aktuell fällt es auf, das die Ergebnisse von Bildgenerierungs-Tools oft einem b
 
 ---
 
-## KI Ästhetik
+## KI Ästhetik?
 
 
 .center[<img src="img/canva_chihuahua_02.png" alt="canva_chihuahua_02" style="width:45%; border: 1px solid #555;">  <img src="img/chatgpt_cat_01.png" alt="chatgpt_cat_01" style="width:45%; border: 1px solid #555;"> ]  
@@ -370,17 +370,14 @@ Aktuell fällt es auf, das die Ergebnisse von Bildgenerierungs-Tools oft einem b
 
 ...wie zum Beispiel ähnlich zu diesen Bildern. Die Frage ist nun ob eine bestimmte Ästhetik in Bildgenerierung-Tools einprogrammiert ist?
 
-Dazu ist zu sagen, dass die Ursache der sich wiederholende Stilisierung nicht bei der Generativen KI liegt, sondern bei den Menschen die sie nutzen. Zum einen erzeugen Nutzer:innen explizit Bilder in bestimmten Stilen, zum anderen wird dieser Stil als "gut bewerten", woran sich wiederum die Generative KI orientiert. Dieser massentaugliche Stil hat also schon vermutlich erstmal eine höhere Wahrscheinlichkeit von System ohne weitere Angaben generiert zu werden, ist aber auf keinen Fall eine inhärente Eigenschaft des System.
+Dazu ist zu sagen, dass die Ursache der sich wiederholende Stilisierung nicht bei der Generativen KI liegt, sondern bei den Menschen die sie nutzen. Zum einen erzeugen Nutzer:innen explizit Bilder in bestimmten Stilen, zum anderen wird dieser Stil als "gut bewerten", woran sich wiederum die Generative KI orientiert.  
 
-Die statistische Dominanz der casual users, also der nicht professionellen Nutzer:innen gegenüber ausgebildeten Künstler:innen schafft die Illusion, dass KI eine einzigartige Ästhetik mit sich bringt. 
+Dieser massentaugliche Stil hat also schon vermutlich erstmal eine höhere Wahrscheinlichkeit von System ohne weitere Angaben generiert zu werden, ist aber auf keinen Fall eine inhärente Eigenschaft des System.
 
-Was Sie denken, was von der „Maschine“ kommt, kommt in Wirklichkeit von ihren Nutzer:innen. 
-
-Mit einer entsprechende Ausbildung und Erfahrung ist es zwar nicht trivial,... 
 
 ---
 
-## KI Ästhetik
+## KI Ästhetik?
 
 
 .center[<img src="img/manovich_01.jpg" alt="manovich_01" style="width:75%; border: 1px solid #888;">]  
@@ -391,7 +388,13 @@ Mit einer entsprechende Ausbildung und Erfahrung ist es zwar nicht trivial,...
 ???
 .task[COMMENT:]  
 
-...etwas Interessantes zu schaffen, aber absolut möglich. Der Medientheoretiker Lev Manovich, der dieses Bild mit Midjourney generiert hat, argumentiert in einem Aufsatz, dass es so etwas wie eine KI Ästhetik nicht gibt.
+Der Medientheoretiker Lev Manovich, der auch dieses Bild erschaffen hat, argumentiert, 
+
+dass die statistische Dominanz der casual users gegenüber ausgebildeten Künstler:innen die Illusion schafft, dass KI eine einzigartige Ästhetik mit sich bringt. 
+
+Was Sie denken, was von der „Maschine“ kommt, kommt in Wirklichkeit von ihren Nutzer:innen. 
+
+Mit einer entsprechende Ausbildung und Erfahrung ist es zwar nicht trivial, etwas Interessantes zu schaffen, aber absolut möglich. Manovich sagt, dass es so etwas wie eine KI Ästhetik nicht gibt.
 
 Schauen Sie sich in diesem Kontext auch das folgende Bild an...
 
